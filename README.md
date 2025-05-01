@@ -20,7 +20,7 @@ Bu proje, açık kaynaklı **Wazuh** SIEM (Security Information and Event Manage
 
 ### 🤔 Neden Bu Proje?
 
-- **Adım Adım Kılavuz**: Yeni başlayanlar için bile anlaşılır, her adımı ekran görüntüleri ve komut satırı örnekleriyle desteklenmiş.  
+- **Adım Adım Kılavuz**: Yeni başlayanlar için bile anlaşılır, her adımı komut satırı örnekleriyle desteklenmiş.  
 - **Gerçek Dünyaya Yakın Simülasyon**: Saldırı ve tespit pratiği yaparak SIEM’in nasıl çalıştığını deneyimleme.  
 - **Esnek ve Genişletilebilir**: Farklı ağ topolojileri veya ek güvenlik araçlarıyla entegre edilebilecek temel bir altyapı.
 
@@ -52,7 +52,7 @@ This project provides a comprehensive guide to installing and configuring the op
 
 ### 🤔 Why This Project?
 
-- **Step-by-Step Guide**: Clear, beginner-friendly instructions backed by screenshots and command-line examples.  
+- **Step by Step Guide**: Understandable even for beginners, each step is supported by command line examples.
 - **Realistic Simulation**: Hands-on practice with attack and detection cycles to experience how a SIEM operates in real environments.  
 - **Flexible & Extensible**: A solid foundation you can extend with different network topologies or additional security tools.  
 
