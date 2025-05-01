@@ -63,7 +63,7 @@ This project provides a comprehensive guide to installing and configuring the op
 ---
 
 <details>
-<summary>🇹🇷 Türkçe Dökümantasyon</summary>
+<summary>TR Türkçe Dökümantasyon</summary>
 
 ### 📦 VirtualBox Kurulumu ve Temel Kullanımı
 
@@ -1210,7 +1210,7 @@ Bu projeyi denediğin için teşekkür ederim. Umarım sende yeni bir merak uyan
 ---
 
 <details>
-<summary>🇬🇧 English Documentation</summary>
+<summary>EN English Documentation</summary>
 
 ### 📦 VirtualBox Installation and Basic Usage
 
